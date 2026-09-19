@@ -105,6 +105,7 @@ Imported cleaned records into SQL Server to extract and validate business metric
 | **Total Pizzas Sold** | **49,574**<br> |
 | **Average Order Value (AOV)** | **$41.30**<br> |
 | **Avg Pizzas Per Order** | **2.32**<br> |
+<img width="1538" height="860" alt="image" src="https://github.com/user-attachments/assets/61b11af8-5b6d-4518-ad4c-c7d1c4aeec3f" />
 
 ---
 
